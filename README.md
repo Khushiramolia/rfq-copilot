@@ -3,8 +3,6 @@
 Procurement teams get supplier quotes as messy emails and PDFs, then compare them by hand in spreadsheets.
 **RFQ Copilot** reads the quotes, puts them in one comparison table, recommends a supplier with reasons, and drafts the reply email.
 
-**Live demo:** _add your Render link here_
-
 ## What it does
 1. Paste or upload (PDF/txt) quotes from 2-10 suppliers.
 2. Extracts supplier, unit price, delivery time, payment terms and MOQ.
