@@ -1,0 +1,5 @@
+Supplier: SwiftPack Industries
+Hello, thanks for the enquiry.
+Our rate is Rs. 52 per piece for the same specification.
+We can ship in 5 days. Minimum order quantity 100.
+Payment: 50% advance, balance on delivery.
